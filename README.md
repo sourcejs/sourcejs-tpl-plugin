@@ -20,3 +20,10 @@ grunt update
 ```
 
 After restarting your app, plugin will be loaded automatically. To disable it, remove npm plugin and run `grunt update` again.
+
+## More examples
+
+* https://github.com/sourcejs/sourcejs-bubble
+* https://github.com/sourcejs/sourcejs-spec-dependencies
+* https://github.com/sourcejs/sourcejs-spec-status
+* https://github.com/sourcejs/sourcejs-specs-linting
