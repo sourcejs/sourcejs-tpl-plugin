@@ -4,7 +4,7 @@ Demo of basic SourceJS Plugin structure. Read more about Plugin development in d
 
 Compatible with [SourceJS](http://sourcejs.com) ~0.4.0.
 
-To create new SourceJS Plugin, we recommend using our the official generator - https://github.com/sourcejs/generator-sourcejs.
+To create new SourceJS Plugin, we recommend using the official generator - https://github.com/sourcejs/generator-sourcejs.
 
 ## Plugin install instructions example
 
